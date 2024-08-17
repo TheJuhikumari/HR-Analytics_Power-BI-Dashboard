@@ -16,3 +16,7 @@ Features
     for more specific insights.
     Comprehensive Analysis: The dashboard covers various factors such as education, age, salary, job role, and years at the company
     to present a holistic view of attrition.
+
+![HR Analytics Dashboard](https://github.com/user-attachments/assets/0a9a7016-8f21-45d4-9a3d-a11291de0879)
+
+
